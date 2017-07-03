@@ -20,5 +20,4 @@ feature1 is a confilt solve method in your project ..
 
 
 
-
-confilt is comming now...
+feature2 is a confilt solve method in my projetc ...
