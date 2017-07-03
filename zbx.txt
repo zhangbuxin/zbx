@@ -16,3 +16,7 @@ dev is a new branch to create new changes..
 
 
 feature1 is a confilt solve method in your project ..
+
+
+
+feature2 is a confilt solve method in my projetc ...
